@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chat Room</title>
+  <link rel="stylesheet" href="cell.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <h2>💬 Real-Time Chat Room</h2>
+    <div id="chat-box"></div>
+    <input id="message-input" placeholder="Type message..." autocomplete="off" />
+    <button id="send-btn">Send</button>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
