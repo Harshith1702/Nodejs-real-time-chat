@@ -18,15 +18,30 @@ A real-time chat application built using Node.js and Express that allows multipl
 
 ## How to Run Locally
 
-1. Clone the repository:```git clone https://github.com/Harshith1702/Nodejs-real-time-chat```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Harshith1702/Nodejs-real-time-chat
+   ```
   
-2. Navigate to the project directory:```cd Nodejs-real-time-chat```
+3. Navigate to the project directory:
+   ```bash
+   cd Nodejs-real-time-chat
+   ```
 
-3. Install dependencies:```npm install```
+6. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-4. Start the server:```node server.js```
+9. Start the server:
+   ```bash
+   node server.js
+   ```
 
-5. Open the application in your browser:```http://localhost:3000```
+13. Open the application in your browser:
+    ```bash
+    http://localhost:3000
+    ```
 
 
 Open multiple browser tabs to test real-time messaging.
