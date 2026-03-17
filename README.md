@@ -90,7 +90,7 @@ Client C  ◄──────────────────────�
 
 | Interface | Chat in Action |
 |-----------|----------------|
-| ![Interface](screenshots/Interface.png) | ![Chat](screenshots/Chat.png) |
+| ![Interface](assets/Interface.png) | ![Chat](assets/Chat.png) |
 
 ---
 
